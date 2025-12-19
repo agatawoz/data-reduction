@@ -1,0 +1,1 @@
+This repository contains code for basic data reduction, focused on the creation of calibration frames and the correction of image artifacts. The project implements fundamental preprocessing steps commonly used in image and scientific data processing, including the generation of bias, dark, and flat frames, as well as hot pixel removal.
